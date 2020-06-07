@@ -76,3 +76,14 @@ There are no levels in this system, as skills are improved the more they are use
 roll three six-sided dice, and if you roll three ones, add one level to that skill. Of course you can also increase skill levels by studying
 or practicing. Each hour you practice or study, again, roll two six sided dice, but this time, if you roll two sixes, roll another six sided die,
 and divide the result by two, rounding up, and add what you get to the level of whatever skill you are practicing/studying for.
+
+### Combat
+
+Combat is also an important aspect of any RPG system, so I will define the rules for that now. When you are attacking something, 
+you make a skill check for whatever skill you are using to attack, and the number of dice you would have to roll for that check 
+would be the level of whatever skill the defender is using for defense plus five. For example, if Bob was going to attempt to 
+kill Wade with a sword, and Wade was going to try to climb up a tree, Bob would make a swordwork skill check (or something 
+similar), and the number of dice he would roll would be equal to Wade's skill level in climbing plus five. If Bob's skill in 
+Swordwork was ten, and Wade's skill in climbing was 3, Bob would roll 3+5=8 dice, and he could reroll a total of ten ones. If 
+Bob succeeds the skill check, his attack is successful, and in this case, Wade would be totally screwed. 
+Item bonuses still apply.

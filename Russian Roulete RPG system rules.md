@@ -90,15 +90,13 @@ Item bonuses still apply. For clarification, what happens when the attack succee
 how lethal or where the attack was supposed to be. It is only important that you use your common sense. Item effects like 
 debuffs from poison or something like that should be listed in the item description.
 
-### Hit effects
-
-When you hit with a weapon, the defender is subject to the hit effect of the weapon. For example, if you were using a poisoned dart, that might make the player hit with it be poisoned.
-
-### Weapon bonuses
-
-An item might also have a bonus. For example, a rifle with scope might have a `+1` bonus to all attacks made with that weapon when you use the `Aim` skill. This `+1` would bean that you could re-roll one dice that landed on a one.
-
 ### Random Strikes
 
 Random strikes happen when a player doesn't specify where they are aiming, are reacting to a surprise attack, or because of 
 conditions that would cause dizziness or similar effects. When an attacker strikes randomly, they roll a six sided die to determine where the strike lands. A six is a strike to the head, a five is a strike to the neck, a four is a strike to the upper torso, a three is a strike to the lower torso or arms, a two is a strike to the legs, and a one is a strike to the feet. The attacker then rolls another six sided die to determine which side of the body the strike landed on. An even number determines the right side, an odd number determines the left. If the strike is to the lower torso or arms, an odd number results in a strike to the arms, the die is rolled again to determine which arm is hit, using the same rules above.
+
+### Surprise Attacks
+
+A surprise attack is when the attacker attacks something that hasn't noticed it yet. The defender gets a Reaction, in which they 
+can counter-attack their attacker. If the counter-attack succeeds, it will be a Random Strike, unless the defender has something 
+that lets them hit normally.

@@ -90,6 +90,14 @@ Item bonuses still apply. For clarification, what happens when the attack succee
 how lethal or where the attack was supposed to be. It is only important that you use your common sense. Item effects like 
 debuffs from poison or something like that should be listed in the item description.
 
+### Hit effects
+
+When you hit with a weapon, the defender is subject to the hit effect of the weapon. For example, if you were using a poisoned dart, that might make the player hit with it be poisoned.
+
+### Weapon bonuses
+
+An item might also have a bonus. For example, a rifle with scope might have a `+1` bonus to all attacks made with that weapon when you use the `Aim` skill. This `+1` would bean that you could re-roll one dice that landed on a one.
+
 ### Random Strikes
 
 Random strikes happen when a player doesn't specify where they are aiming, are reacting to a surprise attack, or because of 

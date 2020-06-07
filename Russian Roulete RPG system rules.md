@@ -77,7 +77,7 @@ roll three six-sided dice, and if you roll three ones, add one level to that ski
 or practicing. Each hour you practice or study, again, roll two six sided dice, but this time, if you roll two sixes, roll another six sided die,
 and divide the result by two, rounding up, and add what you get to the level of whatever skill you are practicing/studying for.
 
-### Combat
+## Combat
 
 Combat is also an important aspect of any RPG system, so I will define the rules for that now. When you are attacking something, 
 you make a skill check for whatever skill you are using to attack, and the number of dice you would have to roll for that check 

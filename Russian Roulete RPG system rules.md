@@ -45,10 +45,15 @@ The last thing on the character sheet are qualities. Qualities are essentially a
 Items will give you a level bonus to certain tasks. For example, a `+4` item would let you re-roll four dice (that rolled ones). The number of dice rolled is the DC of the check. An item is described with a name, a skill bonus,
 and what skill it adds to.
 
+### Item Effects
+
+Some items such as weapons will have effects that are applied to things they are used on, for example, a small knife will have the effect of, "Shallow Wound". If an item doesn't have a stated effect, feel free to make one up that sounds reasonable.
+
 ## Creating a Campaign
 
-If you are making a campaign with this system, it's a bit like the real thing, the rules are simple, and if you lose,
-something bad happens. If you are the DM, you can choose what that bad thing is. You must first create a goal for the 
+If you are making a campaign with this system, it's a bit like the real thing this system is named after, the rules are simple, 
+and if you lose, something bad happens.
+If you are the DM, you can choose what that bad thing is. You must first create a goal for the 
 players to try to reach, and then put stuff in the way. These obstacles can be as a simple as a locked door or a short hike,
 but can be as complicated as a magic puzzle or a full blown heist. These can be represented rules wise as a bunch of skill
 checks, roleplaying, or a scavenger hunt, but remember that using only one type of rule for all the obstacles in the campaign
@@ -100,3 +105,18 @@ conditions that would cause dizziness or similar effects. When an attacker strik
 A surprise attack is when the attacker attacks something that hasn't noticed it yet. The defender gets a Reaction, in which they 
 can counter-attack their attacker. If the counter-attack succeeds, it will be a Random Strike, unless the defender has something 
 that lets them hit normally.
+
+## Example Item Table:
+
+Here is an example of a table of basic weapons, you can see the the Bow of Seeking has a +5 to Archery because arrows shot from 
+it will seek out thier targets! There can obviously be more weapons than described here.
+
+| Item Name      | Affected Skill | Skill bonus | Consumables                  | Effects             |
+|----------------|----------------|-------------|------------------------------|---------------------|
+| Poison         | Poisoning      | +0          | Itself                       | Poisoned            |
+| Short Knife    | Knife Fighting | +0          | NA                           | Shallow Wound       |
+| Long Knife     | Knife Fighting | +0          | NA                           | Deep Wound          |
+| Handgun        | Sharp Shooting | +0          | Ammunition (Respective Size) | Small Gunshot Wound |
+| Longarm        | Sharp Shooting | +0          | Ammunition (Respective Size) | Large Gunshot Wound |
+| Bow            | Archery        | +0          | Arrows                       | Arrow Wound         |
+| Bow of Seeking | Archery        | +5          | Arrows                       | Arrow Wound         |

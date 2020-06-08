@@ -80,7 +80,7 @@ Keywords specify the different types of actions that one can take. Here are some
 | Supernatural | Not natural, magical                           |
 | Healing      | The ability to heal people                     |
 | Tech         | Working with technology/computers              |
-| Curse        | Removing/creative curses (on items)            |
+| Debuff       | Anything about adding penalties to skills      |
 | Combat       | Anything fighting/battle/combat related        |
 | Ranged       | Anything ranged                                |
 | Melee        | Close quarters                                 |

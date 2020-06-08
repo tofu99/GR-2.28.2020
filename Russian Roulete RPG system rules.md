@@ -57,7 +57,7 @@ make your players' skills useless just because the name of their skill ends with
 
 ## Skills and Skill Points
 
-Skills represent how good a character is at a specific task. Some example would be `Aim`, which could represent how well a character could aim with a bow. When the DM calls from a skill check, you can apply the relevent skills to increase the ammount of `one`s that you can re-roll.
+Skills represent how good a character is at a specific task. Some example would be `Aim`, which could represent how well a character could aim with a bow. When the DM calls from a skill check, you can apply the relevent skills to increase the ammount of `ones` that you can re-roll.
 
 ### Creating Skills
 

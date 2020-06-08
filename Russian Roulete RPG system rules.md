@@ -68,9 +68,9 @@ make their characters, they get a total of thirty-six points to spend on whateve
 decide how many new skill points your players get to spend and when they get to spend them. When creating skills, the player must add descriptors to the skill. These descriptors are used for flavoring's sake, and also to act as valuable reference tools for effects like 
 debuffs from poison.
 
-### Example Keywords
+### Example Skills
 
-Here are some example skills/keywords
+Here are some example skills/keywords.
 
 | Name         | Description                                    |
 |--------------|------------------------------------------------|

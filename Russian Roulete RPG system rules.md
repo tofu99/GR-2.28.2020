@@ -65,7 +65,10 @@ This system is intended to be more roleplaying focused, and it probably won't ma
 
 When a player makes a character sheet, obviously it is unfair to allow them to have infinite total skill points, so when they first
 make their characters, they get a total of thirty-six points to spend on whatever skills they so desire. If you are the DM, you can 
-decide how many new skill points your players get to spend and when they get to spend them.
+decide how many new skill points your players get to spend and when they get to spend them. When creating skills, the player must add descriptors to the skill. These descriptors are used for flavoring's sake, and also to act as valuable reference tools for effects like 
+debuffs from poison.
+
+### Example Keywords
 
 ### Conditional Skills
 
@@ -93,8 +96,7 @@ similar), and the number of dice he would roll would be equal to Wade's skill le
 Swordwork was ten, and Wade's skill in climbing was 3, Bob would roll `3 + 5 = 8` dice, and he could reroll a total of ten ones. 
 If Bob succeeds the skill check, his attack is successful, and in this case, Wade would be totally screwed. 
 Item bonuses still apply. For clarification, what happens when the attack succeeds depends entirely upon the weapon used and
-how lethal or where the attack was supposed to be. It is only important that you use your common sense. Item effects like 
-debuffs from poison or something like that should be listed in the item description.
+how lethal or where the attack was supposed to be. It is only important that you use your common sense.
 
 ### Random Strikes
 

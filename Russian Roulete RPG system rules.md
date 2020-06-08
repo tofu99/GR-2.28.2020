@@ -121,3 +121,38 @@ it will seek out thier targets! There can obviously be more weapons than describ
 | Longarm        | Sharp Shooting | +0          | Ammunition (Respective Size) | Large Gunshot Wound |
 | Bow            | Archery        | +0          | Arrows                       | Arrow Wound         |
 | Bow of Seeking | Archery        | +5          | Arrows                       | Arrow Wound         |
+
+## Effects:
+### Effect Types
+
+There are four kinds of Effects, Wounds, Fatal Wounds, Effects, and Fatal Effects. Fatal wounds kill instantly if they are 
+located at the head.
+
+### Triggers
+
+When a particular effect is applied to a player, and it is a debuff, that player must set aside a countdown die set to six.
+Every time the player fails a skill check that the debuff affects, the player will will move the die to the next lowest 
+position. When the die reaches zero, the player dies. A Trigger is an effect that is applied on top of already existing effects 
+when the coundown die reaches its trigger threshold. 
+
+### Duration
+
+Every effect has a duration after which the effect wears off by itself. Certain effects have Indefinite durations, meaning that
+they require external intervention for them to end. This external intervention could be medical assistance such as going to the
+hospital, or taking medication, but could also be a countercharm or a bucket of cow's milk.
+
+## Example Effect Table:
+
+| Effect Name         | Target Skill Group   | Bonus/Debuff | Duration   | Wound | Fatal | Trigger   | Trigger threshold |
+|---------------------|----------------------|--------------|------------|-------|-------|-----------|-------------------|
+| Shallow Wound       | Strength             | -1           | 3 days     | Yes   | No    | NA        | NA                |
+| Deep Wound          | Strength             | -5           | Indefinite | Yes   | Yes   | NA        | NA                |
+| Small Gunshot Wound | Strength             | -5           | 10 days    | Yes   | Yes   | NA        | NA                |
+| Large Gunshot Wound | Strength             | -10          | Indefinite | Yes   | Yes   | NA        | NA                |
+| Arrow Wound         | Strength             | -3           | 5 days     | Yes   | Yes   | NA        | NA                |
+| Delirious           | Wisdom, Intelligence | -6           | 2 days     | No    | No    | NA        | NA                |
+| Poisoned            | Strength, Wisdom     | -4           | 2 days     | No    | Yes   | Delirious | 3                 |
+| Enlightened         | Wisdom               | +3           | Indefinite | No    | No    | NA        | NA                |
+| Lucky               | All                  | +1           | 1 day      | No    | No    | NA        | NA                |
+| Dizzy               | Dexterity            | -2           | 1 hour     | No    | No    | NA        | NA                |
+| Drunk               | Dexterity, Wisdom    | -3           | 3 hours    | No    | No    | Dizzy     | 5                 |

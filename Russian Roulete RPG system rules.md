@@ -68,9 +68,9 @@ make their characters, they get a total of thirty-six points to spend on whateve
 decide how many new skill points your players get to spend and when they get to spend them. When creating skills, the player must add descriptors to the skill. These descriptors are used for flavoring's sake, and also to act as valuable reference tools for effects like 
 debuffs from poison.
 
-### Example Skills
+### Example Keywords
 
-Here are some example skills/keywords.
+Keywords specify the different types of actions that one can take. Here are some examples:
 
 | Name         | Description                                    |
 |--------------|------------------------------------------------|
@@ -84,6 +84,8 @@ Here are some example skills/keywords.
 | Combat       | Anything fighting/battle/combat related        |
 | Ranged       | Anything ranged                                |
 | Melee        | Close quarters                                 |
+
+> If that didn't make sense, keywords are types of actions, and skills are what let you re-roll the dice.
 
 ### Conditional Skills
 

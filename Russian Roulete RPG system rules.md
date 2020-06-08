@@ -69,9 +69,21 @@ decide how many new skill points your players get to spend and when they get to 
 debuffs from poison.
 
 ### Example Keywords
-`Physical` `Mental` `Power`
-`Supernatural` `Healing` `Tech`
-`Curse` `Combat` `Ranged` `Melee`
+
+Here are some example skills/keywords
+
+| Name         | Description                                    |
+|--------------|------------------------------------------------|
+| Physical     | Physical activities, like climbing             |
+| Mental       | Mental activities, like resisting mind control |
+| Power        | How much authority you have                    |
+| Supernatural | Not natural, magical                           |
+| Healing      | The ability to heal people                     |
+| Tech         | Working with technology/computers              |
+| Curse        | Removing/creative curses (on items)            |
+| Combat       | Anything fighting/battle/combat related        |
+| Ranged       | Anything ranged                                |
+| Melee        | Close quarters                                 |
 
 ### Conditional Skills
 

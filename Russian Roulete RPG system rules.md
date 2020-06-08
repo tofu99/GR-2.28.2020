@@ -112,15 +112,15 @@ that lets them hit normally.
 Here is an example of a table of basic weapons, you can see the the Bow of Seeking has a `+5` to Archery because arrows shot from 
 it will seek out thier targets! There can obviously be more weapons than described here.
 
-| Item Name      | Affected Skill | Skill bonus | Consumables                  | Effects             |
-|----------------|----------------|-------------|------------------------------|---------------------|
-| Poison         | Poisoning      | +0          | Itself                       | Poisoned            |
-| Short Knife    | Knife Fighting | +0          | NA                           | Shallow Wound       |
-| Long Knife     | Knife Fighting | +0          | NA                           | Deep Wound          |
-| Handgun        | Sharp Shooting | +0          | Ammunition (Respective Size) | Small Gunshot Wound |
-| Longarm        | Sharp Shooting | +0          | Ammunition (Respective Size) | Large Gunshot Wound |
-| Bow            | Archery        | +0          | Arrows                       | Arrow Wound         |
-| Bow of Seeking | Archery        | +5          | Arrows                       | Arrow Wound         |
+| Item Name      | Affected Skill | Skill bonus | Consumables                   | Effects             |
+|----------------|----------------|-------------|-------------------------------|---------------------|
+| Poison         | Poisoning      | +0          | Itself                        | Poisoned            |
+| Short Knife    | Knife Fighting | +0          | N/A                           | Shallow Wound       |
+| Long Knife     | Knife Fighting | +0          | N/A                           | Deep Wound          |
+| Handgun        | Sharp Shooting | +0          | Ammunition (Respective Size)  | Small Gunshot Wound |
+| Longarm        | Sharp Shooting | +0          | Ammunition (Respective Size)  | Large Gunshot Wound |
+| Bow            | Archery        | +0          | Arrows                        | Arrow Wound         |
+| Bow of Seeking | Archery        | +5          | Arrows                        | Arrow Wound         |
 
 ## Effects:
 ### Effect Types
@@ -144,15 +144,15 @@ hospital, or taking medication, but could also be a countercharm or a bucket of 
 ## Example Effect Table:
 
 | Effect Name         | Target Skill Group   | Bonus/Debuff | Duration   | Wound | Fatal | Trigger   | Trigger threshold |
-|---------------------|----------------------|--------------|------------|-------|-------|-----------|-------------------|
-| Shallow Wound       | Strength             | -1           | 3 days     | Yes   | No    | NA        | NA                |
-| Deep Wound          | Strength             | -5           | Indefinite | Yes   | Yes   | NA        | NA                |
-| Small Gunshot Wound | Strength             | -5           | 10 days    | Yes   | Yes   | NA        | NA                |
-| Large Gunshot Wound | Strength             | -10          | Indefinite | Yes   | Yes   | NA        | NA                |
-| Arrow Wound         | Strength             | -3           | 5 days     | Yes   | Yes   | NA        | NA                |
-| Delirious           | Wisdom, Intelligence | -6           | 2 days     | No    | No    | NA        | NA                |
-| Poisoned            | Strength, Wisdom     | -4           | 2 days     | No    | Yes   | Delirious | 3                 |
-| Enlightened         | Wisdom               | +3           | Indefinite | No    | No    | NA        | NA                |
-| Lucky               | All                  | +1           | 1 day      | No    | No    | NA        | NA                |
-| Dizzy               | Dexterity            | -2           | 1 hour     | No    | No    | NA        | NA                |
-| Drunk               | Dexterity, Wisdom    | -3           | 3 hours    | No    | No    | Dizzy     | 5                 |
+|---------------------|----------------------|--------------|------------|-------|-------|------------|------------------|
+| Shallow Wound       | Strength             | -1           | 3 days     | Yes   | No    | N/A        | N/A               |
+| Deep Wound          | Strength             | -5           | Indefinite | Yes   | Yes   | N/A        | N/A               |
+| Small Gunshot Wound | Strength             | -5           | 10 days    | Yes   | Yes   | N/A        | N/A               |
+| Large Gunshot Wound | Strength             | -10          | Indefinite | Yes   | Yes   | N/A        | N/A               |
+| Arrow Wound         | Strength             | -3           | 5 days     | Yes   | Yes   | N/A        | N/A               |
+| Delirious           | Wisdom, Intelligence | -6           | 2 days     | No    | No    | N/A        | N/A               |
+| Poisoned            | Strength, Wisdom     | -4           | 2 days     | No    | Yes   | Delirious  | 3                 |
+| Enlightened         | Wisdom               | +3           | Indefinite | No    | No    | N/A        | N/A               |
+| Lucky               | All                  | +1           | 1 day      | No    | No    | N/A        | N/A               |
+| Dizzy               | Dexterity            | -2           | 1 hour     | No    | No    | N/A        | N/A               |
+| Drunk               | Dexterity, Wisdom    | -3           | 3 hours    | No    | No    | Dizzy      | 5                 |

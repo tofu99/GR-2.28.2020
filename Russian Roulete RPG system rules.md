@@ -156,3 +156,9 @@ hospital, or taking medication, but could also be a countercharm or a bucket of 
 | Lucky               | All                  | +1           | 1 day      | No    | No    | N/A        | N/A               |
 | Dizzy               | Dexterity            | -2           | 1 hour     | No    | No    | N/A        | N/A               |
 | Drunk               | Dexterity, Wisdom    | -3           | 3 hours    | No    | No    | Dizzy      | 5                 |
+
+## Contributing
+
+> This section is about the project itself, and so isn't part of the rules
+
+For contributions, please submit a PR. Please do NOT commit directly to the `master` branch. Issues are also OK for discussing questions, changes, and issues.

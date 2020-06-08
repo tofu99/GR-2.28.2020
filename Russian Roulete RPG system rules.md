@@ -69,6 +69,9 @@ decide how many new skill points your players get to spend and when they get to 
 debuffs from poison.
 
 ### Example Keywords
+`Physical` `Mental` `Power`
+`Supernatural` `Healing` `Tech`
+`Curse` `Combat` `Ranged` `Melee`
 
 ### Conditional Skills
 

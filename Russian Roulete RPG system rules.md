@@ -197,4 +197,4 @@ hospital, or taking medication, but could also be a countercharm or a bucket of 
 
 > This section is about the project itself, and so isn't part of the rules
 
-For contributions, please submit a PR. Please do NOT commit directly to the `master` branch. Issues are also OK for discussing questions, changes, and issues.
+For contributions, please submit a PR. Please do NOT commit directly to the `master` branch. Issues are also OK for discussing questions, changes, and issues. Once your PR is ready to be merged, please add the `awaiting-merge` label so that the project maintainers know that your PR is ready to be merged.

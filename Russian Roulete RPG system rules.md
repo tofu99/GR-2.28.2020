@@ -127,7 +127,7 @@ you make a skill check for whatever skill you are using to attack, and the numbe
 would be the level of whatever skill the defender is using for defense plus five. For example, if Bob was going to attempt to 
 kill Wade with a sword, and Wade was going to try to climb up a tree, Bob would make a swordwork skill check (or something 
 similar), and the number of dice he would roll would be equal to Wade's skill level in climbing plus five. If Bob's skill in 
-Swordwork was ten, and Wade's skill in climbing was 3, Bob would roll `3 + 5 = 8` dice, and he could reroll a total of ten ones. 
+Swordwork was ten, and Wade's skill in climbing was `3`, Bob would roll `3 + 5 = 8` dice, and he could reroll a total of ten ones. 
 If Bob succeeds the skill check, his attack is successful, and in this case, Wade would be totally screwed. 
 Item bonuses still apply. For clarification, what happens when the attack succeeds depends entirely upon the weapon used and
 how lethal or where the attack was supposed to be. It is only important that you use your common sense.
@@ -135,7 +135,7 @@ how lethal or where the attack was supposed to be. It is only important that you
 ### Random Strikes
 
 Random strikes happen when a player doesn't specify where they are aiming, are reacting to a surprise attack, or because of 
-conditions that would cause dizziness or similar effects. When an attacker strikes randomly, they roll a six sided die to determine where the strike lands. A six is a strike to the head, a five is a strike to the neck, a four is a strike to the upper torso, a three is a strike to the lower torso or arms, a two is a strike to the legs, and a one is a strike to the feet. The attacker then rolls another six sided die to determine which side of the body the strike landed on. An even number determines the right side, an odd number determines the left. If the strike is to the lower torso or arms, an odd number results in a strike to the arms, the die is rolled again to determine which arm is hit, using the same rules above.
+conditions that would cause dizziness or similar effects. When an attacker strikes randomly, they roll a six-sided die to determine where the strike lands. A six is a strike to the head, a five is a strike to the neck, a four is a strike to the upper torso, a three is a strike to the lower torso or arms, a two is a strike to the legs, and a one is a strike to the feet. The attacker then rolls another six sided die to determine which side of the body the strike landed on. An even number determines the right side, an odd number determines the left. If the strike is to the lower torso or arms, an odd number results in a strike to the arms, the die is rolled again to determine which arm is hit, using the same rules above.
 
 ### Surprise Attacks
 
@@ -159,6 +159,7 @@ it will seek out thier targets! There can obviously be more weapons than describ
 | Bow of Seeking | Archery        | +5          | Arrows                        | Arrow Wound         |
 
 ## Effects:
+
 ### Effect Types
 
 There are four kinds of Effects, Wounds, Fatal Wounds, Effects, and Fatal Effects. Fatal wounds kill instantly if they are 

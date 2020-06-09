@@ -179,19 +179,19 @@ hospital, or taking medication, but could also be a countercharm or a bucket of 
 
 ## Example Effect Table:
 
-| Effect Name         | Target Skill Group   | Bonus/Debuff | Duration   | Wound | Fatal | Trigger   | Trigger threshold |
+| Effect Name         | Target Keyword       | Bonus/Debuff | Duration   | Wound | Fatal | Trigger   | Trigger threshold |
 |---------------------|----------------------|--------------|------------|-------|-------|------------|------------------|
-| Shallow Wound       | Strength             | -1           | 3 days     | Yes   | No    | N/A        | N/A               |
-| Deep Wound          | Strength             | -5           | Indefinite | Yes   | Yes   | N/A        | N/A               |
-| Small Gunshot Wound | Strength             | -5           | 10 days    | Yes   | Yes   | N/A        | N/A               |
-| Large Gunshot Wound | Strength             | -10          | Indefinite | Yes   | Yes   | N/A        | N/A               |
-| Arrow Wound         | Strength             | -3           | 5 days     | Yes   | Yes   | N/A        | N/A               |
-| Delirious           | Wisdom, Intelligence | -6           | 2 days     | No    | No    | N/A        | N/A               |
-| Poisoned            | Strength, Wisdom     | -4           | 2 days     | No    | Yes   | Delirious  | 3                 |
-| Enlightened         | Wisdom               | +3           | Indefinite | No    | No    | N/A        | N/A               |
+| Shallow Wound       | Physical             | -1           | 3 days     | Yes   | No    | N/A        | N/A               |
+| Deep Wound          | Physical             | -5           | Indefinite | Yes   | Yes   | N/A        | N/A               |
+| Small Gunshot Wound | Physical             | -5           | 10 days    | Yes   | Yes   | N/A        | N/A               |
+| Large Gunshot Wound | Physical             | -10          | Indefinite | Yes   | Yes   | N/A        | N/A               |
+| Arrow Wound         | Physical             | -3           | 5 days     | Yes   | Yes   | N/A        | N/A               |
+| Delirious           | Mental               | -6           | 2 days     | No    | No    | N/A        | N/A               |
+| Poisoned            | Physical, Mental     | -4           | 2 days     | No    | Yes   | Delirious  | 3                 |
+| Enlightened         | Mental               | +3           | Indefinite | No    | No    | N/A        | N/A               |
 | Lucky               | All                  | +1           | 1 day      | No    | No    | N/A        | N/A               |
-| Dizzy               | Dexterity            | -2           | 1 hour     | No    | No    | N/A        | N/A               |
-| Drunk               | Dexterity, Wisdom    | -3           | 3 hours    | No    | No    | Dizzy      | 5                 |
+| Dizzy               | Physical             | -2           | 1 hour     | No    | No    | N/A        | N/A               |
+| Drunk               | Physical, Mental     | -3           | 3 hours    | No    | No    | Dizzy      | 5                 |
 
 ## Contributing
 

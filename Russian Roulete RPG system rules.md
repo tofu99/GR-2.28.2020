@@ -97,10 +97,10 @@ Here are some sample skills:
 | Wisdom         | Knowing NOT to put a tomato in a fruit salad         | Mental                   | -                               |
 | Intelligence   | Knowing that a tomato is a fruit                     | Mental                   | -                               |
 | Dexterity      | The ability to dodge a tomato being thrown at you    | Physical                 | -                               |
-| Chairmsma      | Being able to sell a tomato-based fruit salad        | Mental, Power            | -                               |
+| Charisma       | Being able to sell a tomato-based fruit salad        | Mental, Power            | -                               |
 | Constitution   | The ability to eat a rotten tomato and not get sick  | Physical                 | -                               |
 | Knife Fighting | Fighting with a knife                                | Physical, Combat         | Have one or more knives         |
-| Poisoning      | Anything fighting/battle/combat related              | -                        | Having poison/venom             |
+| Poisoning      | Anything fighting/battle/combat related              | Debuff                   | Having poison/venom             |
 | Sharp Shooting | Being able to aim accurately with ranged weapon      | Ranged, Combat           | Have one or more ranged weapons |
 | Archery        | Using a bow and arrow                                | Physical, Ranged, Combat | A bow and arrow(s)              |
 

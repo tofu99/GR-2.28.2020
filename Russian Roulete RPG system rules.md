@@ -87,6 +87,23 @@ Keywords specify the different types of actions that one can take. Here are some
 
 > If that didn't make sense, keywords are types of actions, and skills are what let you re-roll the dice.
 
+### Example Skills
+
+Here are some sample skills:
+
+| Skill Name     | Description of Skill                                 | Associated Keywords      | Conditions                      |
+|----------------|------------------------------------------------------|--------------------------|---------------------------------|
+| Strength       | The ability to crush a tomato                        | Physical                 | -                               |
+| Wisdom         | Knowing NOT to put a tomato in a fruit salad         | Mental                   | -                               |
+| Intelligence   | Knowing that a tomato is a fruit                     | Mental                   | -                               |
+| Dexterity      | The ability to dodge a tomato being thrown at you    | Physical                 | -                               |
+| Chairmsma      | Being able to sell a tomato-based fruit salad        | Mental, Power            | -                               |
+| Constitution   | The ability to eat a rotten tomato and not get sick  | Physical                 | -                               |
+| Knife Fighting | Fighting with a knife                                | Physical, Combat         | Have one or more knives         |
+| Poisoning      | Anything fighting/battle/combat related              | -                        | Having poison/venom             |
+| Sharp Shooting | Being able to aim accurately with ranged weapon      | Ranged, Combat           | Have one or more ranged weapons |
+| Archery        | Using a bow and arrow                                | Physical, Ranged, Combat | A bow and arrow(s)              |
+
 ### Conditional Skills
 
 In addition, certain skills are conditional skills or C-skills for short. These skills require certain conditions to be met to be applicable.

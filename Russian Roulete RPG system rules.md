@@ -143,10 +143,13 @@ A surprise attack is when the attacker attacks something that hasn't noticed it 
 can counter-attack their attacker. If the counter-attack succeeds, it will be a Random Strike, unless the defender has something 
 that lets them hit normally.
 
-## Example Item Table:
+## Items
 
-Here is an example of a table of basic weapons, you can see the the Bow of Seeking has a `+5` to Archery because arrows shot from 
-it will seek out thier targets! There can obviously be more weapons than described here.
+Items (can) grant the user a bonus on specific skill checks, specified by the `Affected Skill` property of said item, which lets the user re-roll dice equal to the number in the `Skill Bonus` column.
+
+### Example Item Table
+
+Here is an example of a table of weapons. You can see the the Bow of Seeking has a `+5` to Archery because arrows shot from it will seek out thier targets! There can obviously be more weapons than described here. 
 
 | Item Name      | Affected Skill | Skill bonus | Consumables                   | Effects             |
 |----------------|----------------|-------------|-------------------------------|---------------------|

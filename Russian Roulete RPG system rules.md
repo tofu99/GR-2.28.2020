@@ -178,7 +178,7 @@ Every effect has a duration after which the effect wears off by itself. Certain 
 they require external intervention for them to end. This external intervention could be medical assistance such as going to the
 hospital, or taking medication, but could also be a countercharm or a bucket of cow's milk.
 
-## Example Effect Table:
+### Example Effect Table:
 
 | Effect Name         | Target Keyword       | Bonus/Debuff | Duration   | Wound | Fatal | Trigger   | Trigger threshold |
 |---------------------|----------------------|--------------|------------|-------|-------|------------|------------------|

@@ -25,7 +25,7 @@ Character sheets should contain:
 
 During play, certain tasks will have a DC (Dice Check). The DC equates to the number of six sided dice a player has to roll. 
 Any ones rolled at the end of the check result in a fail (hence Russian Roulete). One or more skill level(s) allows people to reroll 
-a number of dice that landed on `one` equal to their level in the skills required to perform the task plus any relvent item bonus. For DCs for tasks that use multiple skills, simply add all of the skill levels together. Negative skill levels will subtract from the number of dice that you can reroll.
+a number of dice that landed on `one` equal to their level in the skills required to perform the task plus any relvent item bonus. For DCs for tasks that use multiple skills, simply add all of the skill levels together.
 
 ### A Simple Example
 

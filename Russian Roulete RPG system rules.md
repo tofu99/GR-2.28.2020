@@ -143,6 +143,10 @@ A surprise attack is when the attacker attacks something that hasn't noticed it 
 can counter-attack their attacker. If the counter-attack succeeds, it will be a Random Strike, unless the defender has something 
 that lets them hit normally.
 
+### Armor
+
+When attacking someone wearing armor, thier armor bonus is added to the DC required to hit them. You also would add the bonus of your armor to the number of ones you can reroll during any defensive skill checks. For example, if you were wearing +5 armor, it would add five dice to the number of dice someone would have to roll during their skill check to attack you.
+
 ## Items
 
 Items (can) grant the user a bonus on specific skill checks, specified by the `Affected Skill` property of said item, which lets the user re-roll dice equal to the number in the `Skill Bonus` column.
